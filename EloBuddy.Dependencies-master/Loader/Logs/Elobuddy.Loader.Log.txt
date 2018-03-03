@@ -1,0 +1,15 @@
+[03/03/2018 09:43:24] <Info> Initializing Elobuddy.Loader [0.1.16.2]
+[03/03/2018 09:43:24] <Info> Deserializing settings.
+[03/03/2018 09:43:24] <Info> Elobuddy.Loader initialized successfully.
+[03/03/2018 09:43:24] <Info> Running elobuddy system updater.
+[03/03/2018 09:43:26] <Info> League hash detected: "13fa166c0c68ff1927e53a84a2dd1769"
+[03/03/2018 09:43:26] <Info> EloBuddy updated for current patch: False
+[03/03/2018 09:43:26] <Info> Update status: "Desatualizado, League Version: 8.4.218.8787 (Core: #)"
+[03/03/2018 09:43:26] <Info> Copied EloBuddy.Sandbox.dll to: "C:\Users\****\AppData\Local\Temp\n1MRzHBQ3t8G9HA\GZH8Wz1ZOGYOmvo.dll"
+[03/03/2018 09:43:26] <Info> Copied Fedora.Sandbox.dll to: "C:\Users\****\AppData\Local\Temp\n1MRzHBQ3t8G9HA\N2gvozMlZ3hKOQX.dll"
+[03/03/2018 09:43:26] <Info> Elobuddy system updater has finished updating.
+[03/03/2018 09:43:28] <Info> Elobuddy.Loader is exiting.
+[03/03/2018 09:43:28] <Info> Deleted temporary core directory: "C:\Users\****\AppData\Local\Temp\n1MRzHBQ3t8G9HA"
+[03/03/2018 09:43:28] <Info> Serializing settings.
+[03/03/2018 09:43:28] <Info> Elobuddy.Loader has exited.
+
